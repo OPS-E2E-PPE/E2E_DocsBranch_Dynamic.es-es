@@ -1,5 +1,10 @@
 {
   "build": {
+    "overwrite": [],
+    "externalReference": [],
+    "fileMetadata": {},
+    "template": [],
+    "dest": "E2E_DocsBranch_Dynamic",
     "content": [
       {
         "files": [
@@ -26,11 +31,6 @@
         ]
       }
     ],
-    "overwrite": [],
-    "externalReference": [],
-    "globalMetadata": {},
-    "fileMetadata": {},
-    "template": [],
-    "dest": "E2E_DocsBranch_Dynamic"
+    "globalMetadata": {}
   }
 }
